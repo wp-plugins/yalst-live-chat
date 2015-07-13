@@ -38,7 +38,7 @@ After the test period is over the account will automatically convert into a Basi
 2. Aktivieren Sie das Plugin im "Plugin"-Menü in Wordpress. (Activate the plugin through the "Plugins" menu in WordPress.)
 3. Klicken Sie "yalst" im Hauptmenü auf der linken Site an. (Click the "yalst" menu on the left.)
 4. Registrieren Sie sich für einen kostenfreien Testzugang, wenn Sie nicht schon einen oder eine reguläre Mietlösung haben. (Register for a test access if you don't have one or a regular version already in the "Registration" menu.)
-5. Integrieren Sie den Einbindungscode aus der yalst-Administration direkt in die komplette Seite oder gezielt mittels Widgets im Desgin > Widgets Menü. (Integrate your code direct in the "Integration"-Menue or via widgets using the Appearance > Widget menu.)
+5. Integrieren Sie den Einbindungscode aus der yalst-Administration direkt in die komplette Seite oder gezielt mittels Widgets im Design > Widgets Menü. (Integrate your code direct in the "Integration"-Menue or via widgets using the Appearance > Widget menu.)
 
 == Screenshots ==
 
