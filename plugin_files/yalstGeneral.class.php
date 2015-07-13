@@ -31,7 +31,7 @@ class yalstGeneral
 	{
 		if (is_null($this->plugin_url))
 		{
-			$this->plugin_url = WP_PLUGIN_URL.'/wp-yalst-live-chat-software/plugin_files';
+			$this->plugin_url = WP_PLUGIN_URL.'/yalst-live-chat/plugin_files';
 		}
 
 		return $this->plugin_url;

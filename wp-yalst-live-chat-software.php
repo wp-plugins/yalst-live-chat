@@ -3,7 +3,7 @@
 Plugin Name: yalst Live Chat
 Plugin URI: https://www.yalst.de/service/dokumentation/
 Description: Dieses Plugin hilft Ihnen bei der Integration des yalst Live Chats in Wordpress. This plugin helps you integrating the yalst Live Chat into Wordpress.
-Version: 1.0.2
+Version: 1.0.3
 Author: Visisoft OHG
 Author URI: https://www.yalst.de/visisoft/
 License: GPLv2 or later

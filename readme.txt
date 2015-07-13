@@ -3,7 +3,7 @@ Contributors: Visisoft OHG
 Tags: yalst, yalst-LiveSupportTool, live support, Livesupport, Livesupporttool, livesupporttool, live support software, Livechat, live chat, live chat software, online support, shops, shop, increase conversions, ecommerce, e-commerce, increase sales, customer help, customer support, livechat, livesupport, customer service, plugin, chat
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 Requires at least: 3.5.1
 Tested up to: 4.2.2
 
@@ -66,6 +66,9 @@ After the test period is over the account will automatically convert into a Basi
 
 
 == Changelog ==
+
+= 1.0.3 =
+* Fixed Path-Errors
 
 = 1.0.2 =
 * Fixed UTF8-Problems
