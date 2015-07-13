@@ -43,7 +43,7 @@ After the test period is over the account will automatically convert into a Basi
 == Screenshots ==
 
 1. Wordpress-Plugin: Eine Einstellungsseite mit Einbindungscode. (Wordpress plugin: A setting page with integration code.)
-2. Operator-Konsole: Der Arbeitsplatz der Operatoren mit Live-Besucher-Monitor. (perator Console: The workplace of operators with live visitors monitor.)
+2. Operator-Konsole: Der Arbeitsplatz der Operatoren mit Live-Besucher-Monitor. (Operator Console: The workplace of operators with live visitors monitor.)
 3. Chatfenster: Das yalst-Chatfenster auf Besucherseite mit minimalen Anpassungen. (Chat window: The yalst chat window on the visitor side with minimal adjustments.)
 4. Klickpfadstatistik: Eine von mehr als 60 grafisch aufbereiteten und exportierbaren Liveauswertungen und -statistiken. (Clickstream statistics: One of over 60 graphically prepared and exportable Live evaluations and statistics.)
 5. Arbeitszeitstatistik: Eine von mehr als 60 grafisch aufbereiteten und exportierbaren Liveauswertungen und -statistiken. (Working time statistics: One of over 60 graphically prepared and exportable Live evaluations and statistics.)
