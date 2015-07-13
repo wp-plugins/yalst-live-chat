@@ -37,7 +37,7 @@ function yalst_load_plugin_textdomain() {
 }
 add_action( 'plugins_loaded', 'yalst_load_plugin_textdomain' );
 
-/* Für Poedit and I18n */
+/* FÃ¼r Poedit and I18n */
 __('Dieser Plugin erlaubt die einfache Integration des yalst-LiveSupportTools in Wordpress.', 'yalst_text');
 __('yalst-LiveSupportTool', 'yalst_text');
 
