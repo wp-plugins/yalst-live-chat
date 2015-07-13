@@ -59,7 +59,7 @@ final class yalstAdmin extends yalstGeneral
 		wp_enqueue_style('yalst', $this->get_plugin_url().'/css/yalstPlugin.css', false, $this->get_plugin_version());
 	}
 	
-	/* Menü mit Registration und Integration als Unterpunkten */
+	/* MenÃ¼ mit Registration und Integration als Unterpunkten */
 
 	public function admin_menu()
 	{
@@ -90,13 +90,13 @@ final class yalstAdmin extends yalstGeneral
 			array($this, 'yalst_integration_page')
 		);
 
-		/* Entfernung des automatischen Untermenüs */
+		/* Entfernung des automatischen UntermenÃ¼s */
 		if (function_exists('remove_submenu_page'))
 		{
 			remove_submenu_page('yalst', 'yalst');			
 		}
 
-		/* Registration- und Integration-Link zur Plugins-Page hinzufügen */
+		/* Registration- und Integration-Link zur Plugins-Page hinzufÃ¼gen */
 		add_filter('plugin_action_links', array($this, 'yalst_plugin_links'), 10, 2);		
 
 	}
@@ -116,7 +116,7 @@ final class yalstAdmin extends yalstGeneral
 	}
 
 
-	/* Registration- und Integration-Link zur Plugins-Page hinzufügen */
+	/* Registration- und Integration-Link zur Plugins-Page hinzufÃ¼gen */
 
 	public function yalst_plugin_links($links, $file)
 	{
@@ -134,7 +134,7 @@ final class yalstAdmin extends yalstGeneral
 		return $links;
 	}
 	
-	/* Hinzufügen des Reiters, wenn keiner im gespeicherten Einbindungscode vorhanden */
+	/* HinzufÃ¼gen des Reiters, wenn keiner im gespeicherten Einbindungscode vorhanden */
 	
 	private function addReiterIfNecessary ($code)
 	{
@@ -146,7 +146,7 @@ final class yalstAdmin extends yalstGeneral
 		return preg_replace('/(\bscript\.src\s*=\s*.+\.php.+)(site=\d+-\d+)/im', '\1\2\\x26tab=bottom_right_30px', $code);
 	}
 
-	/* Speichern der beiden Einbindungscodes und der gewählten Tabauswahl */
+	/* Speichern der beiden Einbindungscodes und der gewÃ¤hlten Tabauswahl */
 	
 	protected function update_options($data)
 	{

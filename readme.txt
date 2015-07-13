@@ -12,14 +12,14 @@ This plugin helps you integrating the yalst Live Chat into Wordpress.
 
 == Description ==
 
-Der yalst Live Chat ist eine Live-Support-Software, die es den Besuchern ermöglicht, mit den Besitzern der Webseite per 1:1-Chat (Text/Audio/Video) in Kontakt zu treten.
+Der yalst Live Chat ist eine Live-Support-Software, die es den Besuchern ermÃ¶glicht, mit den Besitzern der Webseite per 1:1-Chat (Text/Audio/Video) in Kontakt zu treten.
 
-Mit dem yalst Live Chat bieten Sie den Besuchern einen Verkäufer, der analog dem klassischen "Offline-Geschäft" die Kunden direkt ansprechen oder um Rat gefragt werden kann.
+Mit dem yalst Live Chat bieten Sie den Besuchern einen VerkÃ¤ufer, der analog dem klassischen "Offline-GeschÃ¤ft" die Kunden direkt ansprechen oder um Rat gefragt werden kann.
 
-Mit Hilfe des Echtzeit-Monitoring und vielfältigen Statistiken können Sie Ihre Besucher besser verstehen, Ihre Kundenbeziehungen über persönliche Besucherprofile intensivieren, den finanziellen Erfolg Ihrer Werbekampagnen messen und Ihre Marketingstrategie optimieren.
+Mit Hilfe des Echtzeit-Monitoring und vielfÃ¤ltigen Statistiken kÃ¶nnen Sie Ihre Besucher besser verstehen, Ihre Kundenbeziehungen Ã¼ber persÃ¶nliche Besucherprofile intensivieren, den finanziellen Erfolg Ihrer Werbekampagnen messen und Ihre Marketingstrategie optimieren.
 
-Testen Sie den yalst Live Chat kostenfrei für 7 Tage: https://www.yalst.de/testzugang/
-Nach Ablauf des Testzeitraums können Sie den yalst Live Chat kostenfrei als Basic-Edition mit einem Operator zeitlich unbegrenzt weiter nutzen.
+Testen Sie den yalst Live Chat kostenfrei fÃ¼r 7 Tage: https://www.yalst.de/testzugang/
+Nach Ablauf des Testzeitraums kÃ¶nnen Sie den yalst Live Chat kostenfrei als Basic-Edition mit einem Operator zeitlich unbegrenzt weiter nutzen.
 
 Wozu braucht man einen Live Chat? Finden Sie es hier heraus: https://www.yalst.de/vorteile/
 
@@ -35,10 +35,10 @@ After the test period is over the account will automatically convert into a Basi
 == Installation ==
 
 1. Laden Sie das "wp-yalst-live-chat-software"-Verzeichnis in das Wordpress-Plugins-Verzeichnis "/wp-content/plugins/". (Upload "wp-yalst-live-chat-software" directory to Wordpress plugins directory "/wp-content/plugins/".)
-2. Aktivieren Sie das Plugin im "Plugin"-Menü in Wordpress. (Activate the plugin through the "Plugins" menu in WordPress.)
-3. Klicken Sie "yalst" im Hauptmenü auf der linken Site an. (Click the "yalst" menu on the left.)
-4. Registrieren Sie sich für einen kostenfreien Testzugang, wenn Sie nicht schon einen oder eine reguläre Mietlösung haben. (Register for a test access if you don't have one or a regular version already in the "Registration" menu.)
-5. Integrieren Sie den Einbindungscode aus der yalst-Administration direkt in die komplette Seite oder gezielt mittels Widgets im Desgin > Widgets Menü. (Integrate your code direct in the "Integration"-Menue or via widgets using the Appearance > Widget menu.)
+2. Aktivieren Sie das Plugin im "Plugin"-MenÃ¼ in Wordpress. (Activate the plugin through the "Plugins" menu in WordPress.)
+3. Klicken Sie "yalst" im HauptmenÃ¼ auf der linken Site an. (Click the "yalst" menu on the left.)
+4. Registrieren Sie sich fÃ¼r einen kostenfreien Testzugang, wenn Sie nicht schon einen oder eine regulÃ¤re MietlÃ¶sung haben. (Register for a test access if you don't have one or a regular version already in the "Registration" menu.)
+5. Integrieren Sie den Einbindungscode aus der yalst-Administration direkt in die komplette Seite oder gezielt mittels Widgets im Desgin > Widgets MenÃ¼. (Integrate your code direct in the "Integration"-Menue or via widgets using the Appearance > Widget menu.)
 
 == Screenshots ==
 
