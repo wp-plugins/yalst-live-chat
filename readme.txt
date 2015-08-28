@@ -5,7 +5,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Stable tag: 1.0.3
 Requires at least: 3.5.1
-Tested up to: 4.2.2
+Tested up to: 4.3
 
 Dieses Plugin hilft Ihnen bei der Integration des yalst Live Chats in Wordpress.
 This plugin helps you integrating the yalst Live Chat into Wordpress.
